@@ -1,4 +1,6 @@
-# MemphisCrimeFirstHalfof2021
+![CityofMmephisLogo](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/CityofMemphislogo.png?raw=true)
+
+# Memphis Crime during the First Half of 2021
 A deep drive into Memphis's crime for the first 6 months of 2021.
 
 # Data source
@@ -19,7 +21,13 @@ Before analyzing this data, I first used 4 excel formulas to extract the time, h
 
 # Tables
 
-There were 38,299 crimes during the first 6 months of 2021.
+There were **38,299** crimes during the first 6 months of 2021.
+
+Below are the Top 3 highest categories 
+
+![Top3](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/TOP3.png?raw=true)
+
+All tables are shown below
 
 ![CrimeTables](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/CrimeBreakdownTables.png?raw=true)
 
@@ -33,9 +41,9 @@ Pie Chart showing a breakdown of each offense catergory
 
 Line graphs showing crimes by day of the week and month
 
-![DayLineGraph](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/CrimebyDay.png?raw=true)
+![DayLineGraph](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/OffensebyDay.png?raw=true)
 
-![MonthLineGraph](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/CrimesbyMonth.png?raw=true)
+![MonthLineGraph](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/OffensebyMonth.png?raw=true)
 
 
 

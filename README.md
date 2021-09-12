@@ -7,7 +7,7 @@ https://data.memphistn.gov/Public-Safety/Memphis-Police-Department-Public-Safety
 # About this data set
 
 This data set includes crime data for the City of Memphis from January - June, 2021. 
-Before analyzing this data, I first used 4 excel formulas to extract the time, Hour, day of the week and month.
+Before analyzing this data, I first used 4 excel formulas to extract the time, hour, day of the week and month from the combined offense date/time column.
 
     Separating the time from the date: =TEXT(B2,"hh:mm")
 
@@ -17,5 +17,25 @@ Before analyzing this data, I first used 4 excel formulas to extract the time, H
 
     Extracting the month from the date: =TEXT(B2,"mmmm")
 
-#Tables
+# Tables
+
+There were 38,299 crimes during the first 6 months of 2021.
+
+![CrimeTables](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/CrimeBreakdownTables.png?raw=true)
+
+
+# Graphs
+
+Pie Chart showing a breakdown of each offense catergory
+
+![PieChart](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/OffeneseCatPieChart.png?raw=true)
+
+
+Line graphs showing crimes by day of the week and month
+
+![DayLineGraph](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/CrimebyDay.png?raw=true)
+
+![MonthLineGraph](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/CrimesbyMonth.png?raw=true)
+
+
 

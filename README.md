@@ -23,11 +23,11 @@ Before analyzing this data, I first used 4 excel formulas to extract the time, h
 
 There were **38,299** crimes during the first 6 months of 2021.
 
-Below are the Top 3 highest categories 
+Below are the Top 3 highest categories within each table I created
 
 ![Top3](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/TOP3.png?raw=true)
 
-All tables are shown below
+The full tables are shown below
 
 ![CrimeTables](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/CrimeBreakdownTables.png?raw=true)
 
@@ -46,4 +46,9 @@ Line graphs showing crimes by day of the week and month
 ![MonthLineGraph](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/OffensebyMonth.png?raw=true)
 
 
+#Slicers
 
+
+![SlicerOffense](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/SlicerOffenseCat.png?raw=true)
+
+![SlicerMonth](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/SlicerMonthOffense.png?raw=true)

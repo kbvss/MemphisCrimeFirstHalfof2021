@@ -46,8 +46,9 @@ Line graphs showing crimes by day of the week and month
 ![MonthLineGraph](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/OffensebyMonth.png?raw=true)
 
 
-#Slicers
+# Slicers
 
+Instead of creating seperate tables to take a look at all crimes by month and by offense category, I created slicers so I could click whichever category I need and only have information relating it show up in the table.
 
 ![SlicerOffense](https://github.com/kbvss/MemphisCrimeFirstHalfof2021/blob/main/Images/SlicerOffenseCat.png?raw=true)
 
